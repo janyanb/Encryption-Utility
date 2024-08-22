@@ -1,0 +1,7 @@
+{
+    "salt_base64": "lMAaC4y+99qc7lzrDuDULQ==",
+    "iterations": 1000,
+    "hash_algorithm": "SHA256",
+    "encryption_algoritm": "3DES",
+    "iv_base64": "TgvifQGQPIk="
+}
