@@ -21,7 +21,7 @@ To install the `cryptography` library, run:
 ```bash
 pip install cryptography
 
-## **Usage**
+## Usage
 
 ### To Encrypt a File
 
