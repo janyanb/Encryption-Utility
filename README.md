@@ -21,12 +21,16 @@ To install the `cryptography` library, run:
 ```bash
 pip install cryptography
 
+
+
 ## Usage:
 
 ### To Encrypt a File
 
 ```bash
 python EncryptionTool.py encrypt --input_file ./test.txt --password [password] --encryption_algorithm aes-256 --hashing_algorithm sha512 --iterations 10000
+
+
 
 ### To Decrypt a file:
 
